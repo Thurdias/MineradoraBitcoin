@@ -11,6 +11,6 @@
 
 ### Já a classe Principal contém os seguintes elementos:
 
-### - public static void main(String[] args) - sendo o método principal que é executado quando o programa é iniciado. Ele realiza as seguintes ações:
+### - 'public static void main(String[] args)' - sendo o método principal que é executado quando o programa é iniciado. Ele realiza as seguintes ações:
 ### - Obtém uma instância do objeto Calendar para obter a data e hora atual e a imprime no formato HH:MM:SS:MS.
 ### - Cria várias instâncias da classe Mineradora com diferentes intervalos de números a serem testados e inicia a execução das threads de mineração.
